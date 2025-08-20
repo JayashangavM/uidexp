@@ -57,7 +57,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="home-footer">
         <address>
-          Contact: <a href="mailto:support@onlinelearning.com">support@onlinelearning.com</a> | +1-800-123-4567
+          Contact: <a href="mailto:support@onlinelearning.com">support@onlinelearning.com</a> | +91 6379912425
         </address>
         <small className="footer-note">
           © {new Date().getFullYear()} Online Learning Platform. All rights reserved.
